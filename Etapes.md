@@ -2,7 +2,7 @@
 
 ## Objectif
 
-Mettre en oeuvre une solution de monitoring complète pour l’application Azure Vote App
+Mettre en oeuvre une solution de monitoring complète pour l’application Azure Vote App et Redis
 
 - Déployer un service de collecte des logs pour les containers Kubernetes
 - Un service de collecte des metrics des containers 
